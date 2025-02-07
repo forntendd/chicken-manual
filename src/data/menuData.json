@@ -1,0 +1,265 @@
+{
+  "categories": [
+    {
+      "name": "치킨",
+      "defaultSetting": ["앞접시", "치킨무", "샐러드", "포크", "소스"],
+      "items": [
+        {
+          "name": "까르보 빠네",
+          "additionalSetting": ["집게", "가위"],
+          "sauces": ["머스타드", "양념치킨"]
+        },
+        {
+          "name": "크리미 양파",
+          "additionalSetting": ["젓가락"],
+          "sauces": []
+        },
+        {
+          "name": "옛날치킨",
+          "sauces": ["소금", "양념치킨"]
+        },
+        {
+          "name": "후라이드",
+          "sauces": ["머스타드", "양념치킨"]
+        },
+        {
+          "name": "닭목살",
+          "sauces": ["머스타드", "양념치킨"]
+        },
+        {
+          "name": "양념",
+          "sauces": ["머스타드"]
+        },
+        {
+          "name": "불닭",
+          "sauces": ["머스타드"]
+        },
+        {
+          "name": "반반",
+          "sauces": ["머스타드"]
+        },
+        {
+          "name": "똥집",
+          "sauces": ["양념치킨"]
+        },
+        {
+          "name": "돼지갈비",
+          "sauces": ["불닭", "머스타드"]
+        }
+      ]
+    },
+    {
+      "name": "튀김류",
+      "defaultSetting": ["앞접시", "젓가락"],
+      "items": [
+        {
+          "name": "박달대게",
+          "sauces": ["타르타르", "칠리"]
+        },
+        {
+          "name": "버터플라이 새우",
+          "sauces": ["타르타르", "칠리"]
+        },
+        {
+          "name": "멘보샤",
+          "sauces": ["타르타르", "칠리"]
+        },
+        {
+          "name": "새우볼",
+          "sauces": ["타르타르", "칠리"]
+        },
+        {
+          "name": "생감자",
+          "sauces": ["케챂", "갈릭"]
+        },
+        {
+          "name": "양념감자",
+          "sauces": ["케챂", "갈릭"]
+        },
+        {
+          "name": "모둠감자",
+          "sauces": ["케챂", "갈릭"]
+        },
+        {
+          "name": "치즈스틱",
+          "sauces": ["케챂", "갈릭"],
+          "additionalSetting": ["집게", "가위"]
+        },
+        {
+          "name": "치즈볼",
+          "sauces": ["나쵸치즈", "칠리"]
+        },
+        {
+          "name": "롤까스",
+          "sauces": [],
+          "additionalSetting": ["집게", "가위"]
+        },
+        {
+          "name": "진미채",
+          "sauces": ["마요네즈", "양념치킨"]
+        },
+        {
+          "name": "카이막",
+          "additionalSetting": ["앞접시", "젓가락"],
+          "sauces": []
+        }
+      ]
+    },
+    {
+      "name": "포차 안주류",
+      "defaultSetting": [
+        "국물접시",
+        "숟가락",
+        "젓가락",
+        "국자",
+        "뼈통",
+        "버너"
+      ],
+      "items": [
+        {
+          "name": "튀범떡",
+          "additionalSetting": ["집게", "가위"],
+          "sauces": []
+        },
+        {
+          "name": "짬뽕탕",
+          "additionalSetting": ["집게", "가위"],
+          "sauces": []
+        },
+        {
+          "name": "김치찌개",
+          "additionalSetting": ["집게", "가위"],
+          "sauces": []
+        },
+        {
+          "name": "어묵탕",
+          "sauces": ["간장 와사비 소스"]
+        },
+        {
+          "name": "야채막창",
+          "additionalSetting": ["젓가락", "앞접시"],
+          "sauces": ["마요네즈"]
+        },
+        {
+          "name": "골뱅이 쫄면",
+          "additionalSetting": ["앞접시", "젓가락"],
+          "sauces": []
+        },
+        {
+          "name": "비빔만두",
+          "additionalSetting": ["앞접시", "젓가락"],
+          "sauces": []
+        },
+        {
+          "name": "왕 치즈계란말이",
+          "additionalSetting": ["젓가락", "앞접시"],
+          "sauces": []
+        },
+        {
+          "name": "칼집소세지",
+          "additionalSetting": ["집게", "가위", "앞접시", "포크"],
+          "sauces": []
+        },
+        {
+          "name": "해장라면",
+          "additionalSetting": ["국물접시", "숟가락", "젓가락"],
+          "sauces": []
+        },
+        {
+          "name": "짜파게티",
+          "additionalSetting": ["국물접시", "숟가락", "젓가락"],
+          "sauces": []
+        }
+      ]
+    },
+    {
+      "name": "건어물류",
+      "defaultSetting": ["젓가락", "앞접시"],
+      "items": [
+        {
+          "name": "먹태",
+          "sauces": ["청양마요"]
+        },
+        {
+          "name": "가문어",
+          "sauces": ["청양마요"]
+        },
+        {
+          "name": "버터백오다리",
+          "sauces": ["청양마요"]
+        },
+        {
+          "name": "오징어주둥이",
+          "sauces": ["청양마요"]
+        },
+        {
+          "name": "한치",
+          "sauces": ["청양마요", "땅콩"],
+          "additionalSetting": ["집게", "가위"]
+        },
+        {
+          "name": "아귀포",
+          "sauces": ["청양마요", "땅콩"],
+          "additionalSetting": ["집게", "가위"]
+        },
+        {
+          "name": "조미노가리",
+          "sauces": ["청양마요", "땅콩"],
+          "additionalSetting": ["집게", "가위"]
+        },
+        {
+          "name": "피데기 오징어",
+          "sauces": ["초장", "청양마요"],
+          "additionalSetting": ["집게", "가위"]
+        },
+        {
+          "name": "오다리 튀김",
+          "sauces": ["청양마요", "양념치킨"],
+          "additionalSetting": ["집게", "가위"]
+        }
+      ]
+    },
+    {
+      "name": "사이드",
+      "defaultSetting": ["젓가락", "앞접시"],
+      "items": [
+        {
+          "name": "콤비",
+          "sauces": ["갈릭", "피클"]
+        },
+        {
+          "name": "불고기",
+          "sauces": ["갈릭", "피클"]
+        },
+        {
+          "name": "고르곤졸라",
+          "sauces": ["꿀", "피클"]
+        },
+        {
+          "name": "파스타",
+          "additionalSetting": ["집게", "가위"],
+          "sauces": []
+        },
+        {
+          "name": "치즈스틱",
+          "additionalSetting": ["집게", "가위"],
+          "sauces": []
+        },
+        {
+          "name": "마약옥수수",
+          "additionalSetting": ["플라스틱 숟가락"],
+          "sauces": []
+        },
+        {
+          "name": "황도",
+          "additionalSetting": ["국물접시", "숟가락", "국자"],
+          "sauces": []
+        },
+        {
+          "name": "나쵸치즈",
+          "sauces": ["나쵸치즈", "칠리"]
+        }
+      ]
+    }
+  ]
+}

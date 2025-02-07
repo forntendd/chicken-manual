@@ -1,0 +1,27 @@
+.category {
+  margin-bottom: 10px;
+}
+
+.category-button {
+  width: 100%;
+  padding: 10px;
+  font-size: 18px;
+  text-align: left;
+  border: none;
+  background: #f8f9fa;
+  cursor: pointer;
+  outline: none;
+  border-bottom: 2px solid #ccc;
+  transition: background 0.3s ease;
+}
+
+.category-button:hover {
+  background: #e9ecef;
+}
+
+.category-content {
+  padding: 10px;
+  background: #fff;
+  border-left: 3px solid #007bff;
+  transition: max-height 0.3s ease-out;
+}
